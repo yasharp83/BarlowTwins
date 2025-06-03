@@ -1,4 +1,4 @@
-# Self-Supervised Learning with Barlow Twins and CIFAR-10
+# Self-Supervised Learning with Barlow Twins
 
 ---
 
